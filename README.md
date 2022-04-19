@@ -21,6 +21,7 @@
   <br>
   📫 How to reach me: <a href="mailto: haleemborham3@gmail.com">My Mail</a>
 </p>
+<p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a></p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
@@ -50,7 +51,9 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p><hr>
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+</p>
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
