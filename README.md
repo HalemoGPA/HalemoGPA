@@ -7,15 +7,52 @@
   </a>
 </h1>
 
-- 👋 Hi, I’m @HalemoGPA
-- 👀 I’m interested in Embedded software and software engineering in general
-- 🌱 I’m currently learning Git and Github
-- 💞️ I’m looking to collaborate on doing big projects
-- 📫 How to reach me : haleemboham3@gmail.com
+<p align="center">
+  Hi, I'm HalemoGPA, Computer Engineer & Software Developer from EGYPT
+  <br>
+  <br>
+  🔬 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  <br>
+  🎓 I Finished high school at Ali Mubarak with 98% as a degree percentage 
+  <br>
+  💻 I love Writing code, Hardware and learn anything about them 😊
+  <br>
+  📚 I’m currently learning about IOT and automation systems 
+  <br>
+  📫 How to reach me: <a href="mailto: haleemborham3@gmail.com">My Mail</a>
+</p>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+<a href="https://github.com/HalemoGPA/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+</p><hr>
 
 
 <p  align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
 </p>
 
