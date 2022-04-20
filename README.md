@@ -12,7 +12,7 @@
   Hi, I'm HalemoGPA, Computer Engineer & Software Developer from EGYPT
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelor's degree at Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  🔬 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
   <br>
   🎓 I Finished high school at Ali Mubarak with 98% as a degree percentage 
   <br>
