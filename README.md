@@ -16,7 +16,7 @@
   <br>
   🎓 I Finished high school at Ali Mubarak with 98% as a degree percentage 
   <br>
-  💻 I love Writing code, Hardware and learn anything about them 😊
+  💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
   📚 I’m currently learning about IOT and automation systems 
   <br>
