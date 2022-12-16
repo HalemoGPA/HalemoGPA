@@ -7,19 +7,16 @@
   </a>
 </h1>
    
-
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm HalemoGPA, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
-  <br>
-  🎓 I Finished high school at Ali Mubarak with 98% as a degree percentage 
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently learning about IOT and automation systems 
+  📚 I’m currently studying Data Science 
   <br>
   📫 How to reach me 👇
 </p>
@@ -48,10 +45,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+
+
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HalemoGPA&show_icons=true&theme=radical"  width=400  ></img></p>
 </p><hr>
 <p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
