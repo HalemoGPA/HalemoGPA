@@ -16,7 +16,7 @@
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently studying Data Science 
+  📚 I’m currently focusing on Data Science 
   <br>
   📫 How to reach me 👇
 </p>
