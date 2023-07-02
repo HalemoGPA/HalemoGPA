@@ -12,9 +12,9 @@
   Hi, I'm Omar, Bi Developer and Junior Data Engineer from EGYPT
   <br>
   <br>
-  👨‍🎓 I'm studying for a Bachelor's degree in Helwan University Mechanical Engineering Department.
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Helwan University Mechanical Engineering Department.
   <br>
-  💻 I love Writing code, and I am currently working as a Bi Developer at a startup in Egypt named Taager 😊
+  💻 I love Writing code, and I am currently working as a Bi Developer at some startup at Egypt named Taager 😊
   <br>
   📚 I’m currently focusing on Data Engineering 
   <br>
