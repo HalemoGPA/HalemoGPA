@@ -32,8 +32,8 @@
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="jinja" height="25" src="images/jinja.png"></code>
-  <code><img title="Snowflake" height="25" src="images/snowflake.png"></code>
+  <code><img title="jinja" height="25" src="images/Jinja.png"></code>
+  <code><img title="Snowflake" height="25" src="images/Snowflake.png"></code>
   <code><img title="Apache Airflow" height="25" src="images/Airflow.png"></code>
   <code><img title="DBT" height="25" src="images/dbt.png"></code>
 </p>
