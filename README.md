@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OmarAbdealelem/Omar-Abdelaleem" alt="OmarAbdealelem">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+OmarAbdealelem;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello..;This+is+OmarAbdealelem;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Omar, Bi Developer and Junior Data Engineer from EGYPT
+  Hi, I'm Omar, a Data Engineer from EGYPT
   <br>
   <br>
   👨‍🎓 I'm studying for a Bachelor's degree in Helwan University Mechanical Engineering Department.
