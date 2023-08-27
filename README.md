@@ -54,9 +54,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarAbdelaleem&theme=flag_india)
 
 
-![svg](./profile-3d-contrib/profile-green-animate.svg)
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
