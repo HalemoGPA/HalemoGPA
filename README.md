@@ -57,20 +57,6 @@
 ![svg](./profile-3d-contrib/profile-green-animate.svg)
 
 
- 
-</div>
-<hr>
-<!--snake-->
-
-<div align="center">
-
-  
-![snake animation](https://raw.githubusercontent.com/OmarAbdelaleem/OmarAbdelaleem/output/github-contribution-grid-snake.svg)
-</div>
-
-<hr>
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
