@@ -14,7 +14,7 @@
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Data Science 
   <br>
