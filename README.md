@@ -4,13 +4,6 @@
 
 <h3 align="center">AI & Automation Engineer</h3>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7D44C&center=true&vCenter=true&random=false&width=750&lines=AI+systems+processing+25K+prescriptions+daily;Voice+AI+handling+50%25+of+client+calls;Leading+20%2B+automation+projects" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://halemogpa.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
