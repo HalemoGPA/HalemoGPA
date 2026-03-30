@@ -105,7 +105,7 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 |---|---------|-------------|------|
 | <img src="https://img.shields.io/badge/NLP-blueviolet?style=flat-square" /> | **AQSA - Arabic NLP Platform** | ALLaM Challenge 2024 — Arabic grammar parsing & Quran search with **100% accuracy**. Competed against **177 teams** across **17 countries**. | `LangChain` `NLP` `Arabic` |
 | <img src="https://img.shields.io/badge/CV-red?style=flat-square" /> | **[Brain Tumor Classifier](https://github.com/HalemoGPA/BrainMRI-Tumor-Classifier-Pytorch)** | CNN achieving **99.3% accuracy** on MRI tumor classification. [Live Demo](https://brain-tumor-classification.streamlit.app/) | `PyTorch` `Streamlit` `CNN` |
-| <img src="https://img.shields.io/badge/Fintech-green?style=flat-square" /> | **Finance Dashboard** | Real-time Egyptian financial data aggregator with analytics, trading signals & interactive visualizations. | `Python` `APIs` `Analytics` |
+| <img src="https://img.shields.io/badge/Fintech-green?style=flat-square" /> | **[Finance Dashboard](https://finance.halemogpa.com)** | Real-time Egyptian financial data aggregator with analytics, trading signals & interactive visualizations. | `Python` `APIs` `Analytics` |
 | <img src="https://img.shields.io/badge/RPA-orange?style=flat-square" /> | **Healthcare RPA** | Automation bots processing **25,000 prescriptions/day** across healthcare workflows at TJM Labs. | `BotCity` `Playwright` `RPA` |
 
 </div>
