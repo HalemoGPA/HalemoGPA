@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D44C&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+that+process+25K+prescriptions%2Fday;Voice+AI+handling+50%25+of+client+calls;20%2B+automation+projects+and+counting;From+3+engineers+to+70+%E2%80%94+%2410M+Series+A+journey" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7D44C&center=true&vCenter=true&random=false&width=750&lines=AI+systems+processing+25K+prescriptions+daily;Voice+AI+handling+50%25+of+client+calls;Leading+20%2B+automation+projects;Company+grew+3+to+70+after+%2410M+Series+A" alt="Typing SVG" />
   </a>
 </div>
 
@@ -116,17 +116,8 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 
 <p align="center">
   <a href="https://github.com/HalemoGPA">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/HalemoGPA">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7D44C&text_color=FFFFFF&langs_count=8&size_weight=0.2&count_weight=0.5" alt="Top Languages" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalemoGPA&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" />
 </p>
 
 <br>
