@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="visitors">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulhaleem%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Automation%20Engineer&descSize=18&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulhaleem%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+
+<h3 align="center">AI & Automation Engineer</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -26,7 +28,7 @@
 
 ```yaml
 name: Abdulhaleem Osama
-location: Cairo, Egypt
+location: Dikirnis, Egypt
 current_role: Software Engineer @ TJM Labs
 education: B.Sc. Computer & Control Systems Engineering (GPA: 91.8%)
            Mansoura University (2020-2025)
@@ -42,11 +44,11 @@ experience:
       - Voice AI system handling 50% of client calls
 
   - role: Data Science Supervisor
-    company: IEEE Mansoura CSC
+    org: IEEE Mansoura CSC (Student Activity)
     period: Dec 2023 - Oct 2024
     highlights:
-      - Built ML curriculum and mentored teams
-      - Led technical workshops
+      - Built ML curriculum and mentored committee members
+      - Led technical workshops and training sessions
 
 interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 ```
@@ -112,29 +114,27 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HalemoGPA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7D44C&icon_color=F7D44C&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/HalemoGPA">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/HalemoGPA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7D44C&text_color=FFFFFF&langs_count=8&size_weight=0.2&count_weight=0.5" alt="Top Languages" />
+  </a>
+</p>
 
 <br>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7D44C&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HalemoGPA&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" />
-</div>
+</p>
 
 <br>
 
 <!-- Activity Graph -->
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HalemoGPA&bg_color=0D1117&color=F7D44C&line=F7D44C&point=FF6B6B&area_color=F7D44C&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
