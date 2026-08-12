@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7D44C&center=true&vCenter=true&random=false&width=750&lines=AI+systems+processing+25K+prescriptions+daily;Voice+AI+handling+50%25+of+client+calls;Leading+20%2B+automation+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7D44C&center=true&vCenter=true&random=false&width=750&lines=AI+systems+processing+25K+prescriptions+daily;Voice+AI+handling+50%25+of+client+calls;Leading+20%2B+automation+projects;96+MCP+tools+for+the+context+cost+of+29" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://halemogpa.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://linkedin.com/in/halemogpa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:me@halemogpa.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://halemogpa.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
@@ -29,19 +29,29 @@
 ```yaml
 name: Abdulhaleem Osama
 location: Dikirnis, Egypt
-current_role: Software Engineer @ TJM Labs
+current_role: Software Engineering Lead @ TJM Labs
 education: B.Sc. Computer & Control Systems Engineering (GPA: 91.8%)
            Mansoura University (2020-2025)
 
 experience:
+  - role: Software Engineering Lead
+    company: TJM Labs
+    period: Sep 2025 - Present
+    highlights:
+      - Leading 20+ automation and AI projects across healthcare clients
+      - Engineering across 3 divisions (Retail, Voice AI, Long-Term Care)
+      - Team of 8 engineers; resource allocation, code review, hiring
+      - Own the Hetzner VPS fleet and internal tooling
+
   - role: Software Engineer
     company: TJM Labs
-    period: Nov 2024 - Present
+    period: Nov 2024 - Sep 2025
     highlights:
-      - Joined as 2nd engineer → company grew 3 to ~70 after $10M Series A
-      - Leading 20+ automation and AI projects
+      - Joined as 2nd engineer; company since raised $100M, reached
+        450+ live pharmacies, made 2 acquisitions, automates 500K+ tasks/day
       - RPA pipelines processing 25,000 prescriptions/day
       - Voice AI system handling 50% of client calls
+      - ColiVara contributor: eval harness + Python/TypeScript SDKs
 
   - role: Data Science Supervisor
     org: IEEE Mansoura CSC (Student Activity)
@@ -50,7 +60,7 @@ experience:
       - Built ML curriculum and mentored committee members
       - Led technical workshops and training sessions
 
-interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
+interests: ["MCP & Agent Tooling", "RAG Systems", "NLP", "Healthcare AI", "RPA"]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -65,12 +75,14 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Backend & Automation
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -83,12 +95,16 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Languages & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -103,10 +119,12 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 
 | | Project | Description | Tech |
 |---|---------|-------------|------|
-| <img src="https://img.shields.io/badge/NLP-blueviolet?style=flat-square" /> | **AQSA - Arabic NLP Platform** | ALLaM Challenge 2024 — Arabic grammar parsing & Quran search with **100% accuracy**. Competed against **177 teams** across **17 countries**. | `LangChain` `NLP` `Arabic` |
-| <img src="https://img.shields.io/badge/CV-red?style=flat-square" /> | **[Brain Tumor Classifier](https://github.com/HalemoGPA/BrainMRI-Tumor-Classifier-Pytorch)** | CNN achieving **99.3% accuracy** on MRI tumor classification. [Live Demo](https://brain-tumor-classification.streamlit.app/) | `PyTorch` `Streamlit` `CNN` |
-| <img src="https://img.shields.io/badge/Fintech-green?style=flat-square" /> | **[Finance Dashboard](https://finance.halemogpa.com)** | Real-time Egyptian financial data aggregator with analytics, trading signals & interactive visualizations. | `Python` `APIs` `Analytics` |
+| <img src="https://img.shields.io/badge/MCP-black?style=flat-square" /> | **[WhatsApp MCP Server](https://github.com/HalemoGPA/whatsapp-mcp-server)** | Self-hosted, authenticated MCP server. Serves **96 tools for the context cost of 29** via progressive disclosure, with a **labeled eval** proving retrieval routes as well as loading everything. MIT. | `Go` `Python` `FastMCP` `Docker` |
+| <img src="https://img.shields.io/badge/Mobile-9C27B0?style=flat-square" /> | **[Alban Osama](https://play.google.com/store/apps/details?id=com.halemogpa.albano_osama)** | Arabic RTL dairy reservation app built and shipped **solo** for a family business. **Live on Google Play.** | `Flutter` `Fastify` `PostgreSQL` |
+| <img src="https://img.shields.io/badge/Fintech-green?style=flat-square" /> | **[Finance Dashboard](https://finance.halemogpa.com)** | Arabic-first Egyptian market platform: gold, silver, USD parallel, forex, crypto. Append-only partitioned price history; Android app in closed testing. | `Next.js` `TypeScript` `PostgreSQL` |
 | <img src="https://img.shields.io/badge/RPA-orange?style=flat-square" /> | **Healthcare RPA** | Automation bots processing **25,000 prescriptions/day** across healthcare workflows at TJM Labs. | `BotCity` `Playwright` `RPA` |
+| <img src="https://img.shields.io/badge/NLP-blueviolet?style=flat-square" /> | **AQSA - Arabic NLP Platform** | ALLaM Challenge 2024 finalist - Arabic grammar parsing & Quran search with **100% retrieval accuracy**. Competed against **177 teams** across **17 countries**. | `LangChain` `NLP` `Arabic` |
+| <img src="https://img.shields.io/badge/CV-red?style=flat-square" /> | **[Brain Tumor Classifier](https://github.com/HalemoGPA/BrainMRI-Tumor-Classifier-Pytorch)** | CNN achieving **99.3% accuracy** on MRI tumor classification. [Live Demo](https://brain-tumor-classification.streamlit.app/) | `PyTorch` `Streamlit` `CNN` |
 
 </div>
 
@@ -116,7 +134,7 @@ interests: ["RAG Systems", "NLP", "Healthcare AI", "RPA", "Voice AI"]
 
 <p align="center">
   <a href="https://github.com/HalemoGPA">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
   </a>
 </p>
 
