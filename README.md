@@ -134,7 +134,11 @@ interests: ["MCP & Agent Tooling", "RAG Systems", "NLP", "Healthcare AI", "RPA"]
 
 <p align="center">
   <a href="https://github.com/HalemoGPA">
-    <img width="60%" src="https://streak-stats.demolab.com/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
+    <!-- Instance note: the herokuapp and demolab hosts for this card are both
+         dead (verified 2026-08-12, broken image on the rendered profile).
+         streak-stats.vercel.app is the one that responds. If this breaks again,
+         check the alternatives before swapping - do not assume a host is live. -->
+    <img width="60%" src="https://streak-stats.vercel.app/?user=HalemoGPA&theme=radical&hide_border=true&background=0D1117&stroke=F7D44C&ring=F7D44C&fire=FF6B6B&currStreakLabel=F7D44C&sideLabels=F7D44C" alt="GitHub Streak" />
   </a>
 </p>
 
